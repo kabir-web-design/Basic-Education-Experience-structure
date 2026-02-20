@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: "Poppins", sans-serif;
+}
+.edu-sec {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: black;
+}
+.edu-title {
+  color: #d7ba7d;
+  padding-bottom: 20px;
+}
+.edu-box {
+  background-color: #2a2a2a;
+}
+.edu-box h4 {
+  color: white;
+  font-weight: 700;
+  padding-left: 10px;
+  padding-top: 10px;
+  font-size: 20px;
+}
+.edu-box h5 {
+  color: #d7ba7d;
+  padding-left: 10px;
+}
+.edu-box p {
+  color: white;
+  padding-left: 10px;
+  padding-bottom: 10px;
+}
